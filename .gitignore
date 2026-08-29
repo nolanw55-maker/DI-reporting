@@ -1,0 +1,12 @@
+node_modules
+dist
+.output
+.tanstack
+.nitro
+.grok
+screenshots
+artifacts
+*.zip
+.DS_Store
+.env
+.env.*
